@@ -1,19 +1,19 @@
 # Youtube-channel-analysis-project
 ## Overview
-This project provides a means to get a better insight into how users or viewers interract with videos posted on youtube and how a Youtuber can maximize the insight gotten from the data to provide more likeable content which will lead to improved metrics performance and more psoitive comments.
+This project provides a means to get a better insight into how users or viewers interact with videos posted on youtube and how a Youtuber can maximize the data gotten to provide more likeable content which will lead to improved performance metrics and more positive comments.
 
 ## The Aim of this project is to:
-- Analyse the metrics of a video in a channel to know which metrics matters most. Metrics like number of comments, number of likes, number of views, video duration etc. Some questions answered include: 
+- Analyse the metrics of a video in a channel to know which matters most. Metrics like number of comments, number of likes, number of views, video duration etc. Some questions answered include: 
 Which video has the most views?
 What does the view distribution per video look like?
 ‌Which particular day of the week are videos uploaded the most?
 ‌Which is a predictor of more views between likes and comments?
-What is the video count based on duration?
+What is the viewer count, based on duration?
 
 - Carry out sentiment analysis on the overall comments in the channel as well as on each comment per video. This is aimed at deducing the level of positivity, neutrality or negativity of the comments which could indicate the level of satisfaction gotten by viewers of such videos. 
 
 ## Data source:
-The data is gotten by interacting with youtube api and making requests. However, it should be noted that the documentation of youtube api ought to be understood in order to successfully  get the right data without errors. Also, it is note worthy to state that the insight into some parts of this analysis was gotten from The Vu Analytics channel on youtube.
+The data is gotten from interacting with youtube api and making requests. However, it should be noted that the documentation of youtube api ought to be understood in order to successfully get the right data without errors. Also, it is note worthy to state that the insight into some parts of this analysis was gotten from The Vu Analytics channel on youtube.
 
 ## Limitations
 - This project is just an analysis on one youtube channel and should not be used to draw conclusions on the contents from other channels.
